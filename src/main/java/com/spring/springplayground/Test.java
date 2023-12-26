@@ -1,2 +1,5 @@
-package com.spring.springplayground;public class Test {
+package com.spring.springplayground;
+
+public class Test {
+
 }
